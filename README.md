@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring innovative solutions in the IT world and taking on new challenges
 - 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing
 - 💞️ I’m looking to collaborate on open-source projects and cutting-edge tech initiatives
-- 📫 How to reach me <olga.sofia.lopes@gmail.com>
+- 📫 How to reach me <www.linkedin.com/in/olgalopes>
 - ⚡ Fun fact: As a newbie in the IT world, I've discovered that debugging is like a detective game, and I'm loving every minute of it
 
 <!---
